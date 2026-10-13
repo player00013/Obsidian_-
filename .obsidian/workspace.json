@@ -30,7 +30,7 @@
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://excalidraw.com/",
+                "url": "https://excalidraw.com/#room=21073407f38e6f9f1dc7,YCGWfJKfTa2QvfpP1eRAuA",
                 "title": "Excalidraw Whiteboard",
                 "mode": "webview"
               },
@@ -47,7 +47,7 @@
                 "file": "共同開発/00_共同開発テンプレ/06_発想広場/ホワイトボード/ホワイトボード_無題.canvas",
                 "viewState": {
                   "x": 159,
-                  "y": 13.5,
+                  "y": -172.5,
                   "zoom": 0
                 }
               },
@@ -84,7 +84,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -224,6 +224,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "共同開発/00_共同開発テンプレ/06_発想広場/ホワイトボード/ホワイトボード_無題.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -277,7 +278,7 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "5f92a6efd7ae19c3",
+  "active": "9f440b04bf640c56",
   "lastOpenFiles": [
     "共同開発/00_共同開発テンプレ/07_ライブラリ/外部資料/テスト.excalidraw",
     "共同開発/00_共同開発テンプレ/06_発想広場/ホワイトボード/ホワイトボード_無題.canvas",
