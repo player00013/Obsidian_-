@@ -1,7 +1,9 @@
 {
 	"nodes":[
 		{"id":"146c8819e99eb779","type":"group","x":-200,"y":-180,"width":600,"height":400,"label":"概要"},
-		{"id":"6ddd49cf9006c0cb","type":"text","text":"BREAK！","x":-60,"y":-140,"width":250,"height":60}
+		{"id":"6ddd49cf9006c0cb","type":"text","text":"タイトル：ハシルハコ","x":-60,"y":-140,"width":250,"height":60},
+		{"id":"e8f12c3d203c4641","type":"text","text":"マネタイズ参考：スイカゲーム","x":-60,"y":-40,"width":250,"height":60},
+		{"id":"3ebac806e5d08ee1","x":-60,"y":60,"width":250,"height":60,"type":"text","text":""}
 	],
 	"edges":[]
 }
