@@ -11,42 +11,17 @@
             "id": "1b3fc5937c2db605",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "共同開発/00_共同開発テンプレ/01_はじめに/プラグイン一覧.md",
-                "mode": "source",
-                "source": false
+                "file": "共同開発/00_共同開発テンプレ/06_発想広場/ホワイトボード/ホワイトボード_無題.canvas",
+                "viewState": {
+                  "x": 159,
+                  "y": 77,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "プラグイン一覧"
-            }
-          },
-          {
-            "id": "b8f72605fc6ae874",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://community.obsidian.md/plugins/obsidian-git",
-                "title": "Git - Obsidian Plugin",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Git - Obsidian Plugin"
-            }
-          },
-          {
-            "id": "2388b12a32b15081",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://community.obsidian.md/plugins/kanban",
-                "title": "Kanban Board - Obsidian Plugin",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Kanban Board - Obsidian Plugin"
+              "icon": "lucide-layout-dashboard",
+              "title": "ホワイトボード_無題"
             }
           }
         ]
