@@ -15,6 +15,7 @@
               "state": {
                 "file": "共同開発/00_共同開発テンプレ/06_発想広場/ホワイトボード/ホワイトボード_無題.canvas",
                 "viewState": {
+<<<<<<< HEAD
                   "x": 212.34332770220777,
                   "y": -4.956941639730266,
                   "zoom": 1
@@ -48,43 +49,23 @@
                 "viewState": {
                   "x": 159,
                   "y": -172.5,
+=======
+                  "x": 159,
+                  "y": 77,
+>>>>>>> origin/main
                   "zoom": 0
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "ホワイトボード_無題"
             }
-          },
-          {
-            "id": "b8f72605fc6ae874",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://community.obsidian.md/plugins/obsidian-git",
-                "title": "Git - Obsidian Plugin",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Git - Obsidian Plugin"
-            }
-          },
-          {
-            "id": "2388b12a32b15081",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://community.obsidian.md/plugins/kanban",
-                "title": "Kanban Board - Obsidian Plugin",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Kanban Board - Obsidian Plugin"
-            }
           }
+<<<<<<< HEAD
         ],
         "currentTab": 2
+=======
+        ]
+>>>>>>> origin/main
       }
     ],
     "direction": "vertical"
@@ -224,7 +205,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "共同開発/00_共同開発テンプレ/06_発想広場/ホワイトボード/ホワイトボード_無題.canvas",
+=======
+                "file": "共同開発/00_共同開発テンプレ/02_タスク管理/タスクボード.md",
+>>>>>>> origin/main
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -278,12 +263,16 @@
       "obsidian-kanban:Create new board": false
     }
   },
+<<<<<<< HEAD
   "active": "9f440b04bf640c56",
+=======
+  "active": "1b3fc5937c2db605",
+>>>>>>> origin/main
   "lastOpenFiles": [
-    "共同開発/00_共同開発テンプレ/07_ライブラリ/外部資料/テスト.excalidraw",
+    "無題のファイル.base",
     "共同開発/00_共同開発テンプレ/06_発想広場/ホワイトボード/ホワイトボード_無題.canvas",
     "無題のファイル 1.base",
-    "無題のファイル.base",
+    "共同開発/00_共同開発テンプレ/07_ライブラリ/外部資料/テスト.excalidraw",
     "共同開発/00_共同開発テンプレ/01_はじめに/プラグイン一覧.md",
     "共同開発/00_共同開発テンプレ/02_タスク管理/タスクボード.md",
     "共同開発/00_共同開発テンプレ/05_定例会議/週報ボード.md",
@@ -305,7 +294,6 @@
     "共同開発/00_共同開発テンプレ/04_仕様書/D_マスター版",
     "共同開発/00_共同開発テンプレ/04_仕様書/C_ベータ版",
     "共同開発/00_共同開発テンプレ/04_仕様書/B_アルファ版",
-    "共同開発/00_共同開発テンプレ/04_仕様書/A_プロト版",
     "Untitled Kanban.md",
     "test/数学.md",
     "test/テスト.md",
