@@ -8,48 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "62375f847b23d9f3",
+            "id": "1b3fc5937c2db605",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "共同開発/00_共同開発テンプレ/06_発想広場/ホワイトボード/楓‗イメージボード.canvas",
+                "file": "共同開発/00_共同開発テンプレ/06_発想広場/ホワイトボード/楓‗イメージボード 1.canvas",
                 "viewState": {
-                  "x": 38.65230768889602,
-                  "y": 15.675199855513405,
-                  "zoom": 1
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "楓‗イメージボード"
-            }
-          },
-          {
-            "id": "b8f72605fc6ae874",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://community.obsidian.md/plugins/obsidian-git",
-                "title": "Git - Obsidian Plugin",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Git - Obsidian Plugin"
-            }
-          },
-          {
-            "id": "2388b12a32b15081",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://community.obsidian.md/plugins/kanban",
-                "title": "Kanban Board - Obsidian Plugin",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Kanban Board - Obsidian Plugin"
+              "title": "楓‗イメージボード 1"
             }
           }
         ]
@@ -192,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "共同開発/00_共同開発テンプレ/06_発想広場/ホワイトボード/ホワイトボード_無題.canvas",
+                "file": "共同開発/00_共同開発テンプレ/02_タスク管理/タスクボード.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -246,14 +218,14 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "5888a9eb8fe4c702",
+  "active": "1b3fc5937c2db605",
   "lastOpenFiles": [
-    "共同開発/00_共同開発テンプレ/06_発想広場/ホワイトボード/ホワイトボード_総合.canvas",
-    "共同開発/00_共同開発テンプレ/06_発想広場/ホワイトボード/ホワイトボード_無題.canvas",
     "共同開発/00_共同開発テンプレ/06_発想広場/ホワイトボード/楓‗イメージボード.canvas",
-    "共同開発/00_共同開発テンプレ/07_ライブラリ/外部資料/テスト.excalidraw",
-    "無題のファイル 1.base",
+    "共同開発/00_共同開発テンプレ/06_発想広場/ホワイトボード/楓‗イメージボード 1.canvas",
+    "共同開発/00_共同開発テンプレ/06_発想広場/ホワイトボード/ホワイトボード_総合.canvas",
     "無題のファイル.base",
+    "無題のファイル 1.base",
+    "共同開発/00_共同開発テンプレ/07_ライブラリ/外部資料/テスト.excalidraw",
     "共同開発/00_共同開発テンプレ/01_はじめに/プラグイン一覧.md",
     "共同開発/00_共同開発テンプレ/02_タスク管理/タスクボード.md",
     "共同開発/00_共同開発テンプレ/05_定例会議/週報ボード.md",
