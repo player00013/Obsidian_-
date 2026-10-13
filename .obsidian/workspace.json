@@ -20,6 +20,34 @@
               "icon": "lucide-file",
               "title": "プラグイン一覧"
             }
+          },
+          {
+            "id": "b8f72605fc6ae874",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://community.obsidian.md/plugins/obsidian-git",
+                "title": "Git - Obsidian Plugin",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Git - Obsidian Plugin"
+            }
+          },
+          {
+            "id": "2388b12a32b15081",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://community.obsidian.md/plugins/kanban",
+                "title": "Kanban Board - Obsidian Plugin",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Kanban Board - Obsidian Plugin"
+            }
           }
         ]
       }
@@ -208,17 +236,17 @@
       "templates:テンプレートを挿入": false,
       "command-palette:コマンドパレットを開く": false,
       "bases:新規ベースを作成": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-kanban:Create new board": false,
       "audio-recorder:録音の開始/停止": false,
       "publish:パブリッシュによる変更の公開…": false,
-      "workspaces:ワークスペースレイアウトを管理": false
+      "workspaces:ワークスペースレイアウトを管理": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:Create new board": false
     }
   },
   "active": "1b3fc5937c2db605",
   "lastOpenFiles": [
-    "共同開発/00_共同開発テンプレ/02_タスク管理/タスクボード.md",
     "共同開発/00_共同開発テンプレ/01_はじめに/プラグイン一覧.md",
+    "共同開発/00_共同開発テンプレ/02_タスク管理/タスクボード.md",
     "共同開発/00_共同開発テンプレ/05_定例会議/週報ボード.md",
     "共同開発/00_共同開発テンプレ/05_定例会議/議事録ボード.md",
     "共同開発/00_共同開発テンプレ/04_仕様書/仕様書ボード.md",
