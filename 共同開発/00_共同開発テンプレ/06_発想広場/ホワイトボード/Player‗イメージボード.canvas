@@ -1,7 +1,7 @@
 {
 	"nodes":[
-		{"id":"146c8819e99eb779","x":-200,"y":-180,"width":600,"height":400,"type":"group","label":"概要"},
-		{"id":"6ddd49cf9006c0cb","x":-61,"y":-85,"width":250,"height":60,"type":"text","text":"BREAK！"}
+		{"id":"146c8819e99eb779","type":"group","x":-200,"y":-180,"width":600,"height":400,"label":"概要"},
+		{"id":"6ddd49cf9006c0cb","type":"text","text":"BREAK！","x":-60,"y":-140,"width":250,"height":60}
 	],
 	"edges":[]
 }
