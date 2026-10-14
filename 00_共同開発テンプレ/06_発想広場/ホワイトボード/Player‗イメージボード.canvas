@@ -21,6 +21,7 @@
 		{"id":"9f56773f904b49fe","type":"file","file":"00_共同開発テンプレ/07_ライブラリ/画像素材/Pasted image 20261014035140.png","x":1191,"y":960,"width":400,"height":225}
 	],
 	"edges":[
-		{"id":"e36d1035c8c94778","fromNode":"e8f12c3d203c4641","fromSide":"right","toNode":"8602c7dcc1238756","toSide":"left"}
+		{"id":"e36d1035c8c94778","fromNode":"e8f12c3d203c4641","fromSide":"right","toNode":"8602c7dcc1238756","toSide":"left"},
+		{"id":"9e89c0c6bbf42f45","fromNode":"571413ca8c77bd44","fromSide":"right","toNode":"c4a4d3eda11b9140","toSide":"left"}
 	]
 }
