@@ -1,14 +1,10 @@
 {
 	"nodes":[
 		{"id":"3677bb9fc5fa6488","type":"text","text":"ここはホワイトボードです。\n視覚的に議論しましょう。","x":34,"y":47,"width":250,"height":60},
-		{"id":"af6919e16b9de2e5","type":"text","text":"https://excalidraw.com/#room=21073407f38e6f9f1dc7,YCGWfJKfTa2QvfpP1eRAuA/","x":34,"y":-80,"width":250,"height":60},
-		{"id":"76b4e312ebb2b72a","x":-260,"y":300,"width":250,"height":60,"type":"text","text":"ハイパーカジュアルコンセプト"},
-		{"id":"b8dfa99a60989c68","x":-260,"y":460,"width":250,"height":60,"type":"text","text":"ワンアクションでプレイ時間3分"},
-		{"id":"2755ebe913ab9b46","type":"text","text":"ハイパーカジュアル参考","x":380,"y":300,"width":250,"height":60}
+		{"id":"db59e121628c8b5f","x":340,"y":47,"width":340,"height":60,"type":"text","text":"そのうちブラウザ上のホワイトボードツールと連動"},
+		{"id":"176d5c8bbd558d39","type":"text","text":"ここに各々のアイデアを総合する","x":32,"y":160,"width":252,"height":60}
 	],
-	"edges":[
-		{"id":"b8fc00f8df5dcdc5","fromNode":"76b4e312ebb2b72a","fromSide":"bottom","toNode":"b8dfa99a60989c68","toSide":"top"}
-	],
+	"edges":[],
 	"metadata":{
 		"version":"1.0-1.0",
 		"frontmatter":{}

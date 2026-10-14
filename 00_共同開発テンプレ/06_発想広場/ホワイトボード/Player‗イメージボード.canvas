@@ -14,11 +14,11 @@
 		{"id":"a03ea2c8c2b1bcce","type":"file","file":"共同開発/00_共同開発テンプレ/07_ライブラリ/画像素材/Pasted image 20261014035135.png","x":1191,"y":640,"width":400,"height":225},
 		{"id":"eb91579968d880f3","type":"file","file":"共同開発/00_共同開発テンプレ/07_ライブラリ/画像素材/Pasted image 20261014035145.png","x":1191,"y":1240,"width":400,"height":225},
 		{"id":"c965f862212ea302","type":"file","file":"共同開発/00_共同開発テンプレ/07_ライブラリ/画像素材/Pasted image 20261014035140.png","x":1191,"y":960,"width":400,"height":225},
-		{"id":"3ccf46fe48cea401","x":-120,"y":300,"width":400,"height":225,"type":"file","file":"00_共同開発テンプレ/07_ライブラリ/画像素材/Pasted image 20261014033022.png"},
-		{"id":"c6d49a6230eb08d6","x":1191,"y":360,"width":400,"height":225,"type":"file","file":"00_共同開発テンプレ/07_ライブラリ/画像素材/Pasted image 20261014035125.png"},
-		{"id":"dffb4f775a3b3c46","x":1191,"y":640,"width":400,"height":225,"type":"file","file":"00_共同開発テンプレ/07_ライブラリ/画像素材/Pasted image 20261014035135.png"},
-		{"id":"9f56773f904b49fe","x":1176,"y":960,"width":400,"height":225,"type":"file","file":"00_共同開発テンプレ/07_ライブラリ/画像素材/Pasted image 20261014035140.png"},
-		{"id":"7465f1f1c2d6e75a","x":1191,"y":1240,"width":400,"height":225,"type":"file","file":"00_共同開発テンプレ/07_ライブラリ/画像素材/Pasted image 20261014035145.png"}
+		{"id":"3ccf46fe48cea401","type":"file","file":"00_共同開発テンプレ/07_ライブラリ/画像素材/Pasted image 20261014033022.png","x":-120,"y":300,"width":400,"height":225},
+		{"id":"c6d49a6230eb08d6","type":"file","file":"00_共同開発テンプレ/07_ライブラリ/画像素材/Pasted image 20261014035125.png","x":1191,"y":360,"width":400,"height":225},
+		{"id":"dffb4f775a3b3c46","type":"file","file":"00_共同開発テンプレ/07_ライブラリ/画像素材/Pasted image 20261014035135.png","x":1191,"y":640,"width":400,"height":225},
+		{"id":"7465f1f1c2d6e75a","type":"file","file":"00_共同開発テンプレ/07_ライブラリ/画像素材/Pasted image 20261014035145.png","x":1191,"y":1240,"width":400,"height":225},
+		{"id":"9f56773f904b49fe","type":"file","file":"00_共同開発テンプレ/07_ライブラリ/画像素材/Pasted image 20261014035140.png","x":1191,"y":960,"width":400,"height":225}
 	],
 	"edges":[
 		{"id":"e36d1035c8c94778","fromNode":"e8f12c3d203c4641","fromSide":"right","toNode":"8602c7dcc1238756","toSide":"left"}
