@@ -11,14 +11,17 @@
             "id": "338cbff67ad5fcd8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "00_共同開発テンプレ/05_定例会議/週報フォルダ/週報Test.md",
-                "mode": "source",
-                "source": false
+                "file": "00_共同開発テンプレ/06_発想広場/ホワイトボード/01_ホワイトボード_総合.canvas",
+                "viewState": {
+                  "x": 430,
+                  "y": 453.5,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "週報Test"
+              "icon": "lucide-layout-dashboard",
+              "title": "01_ホワイトボード_総合"
             }
           }
         ]
@@ -217,8 +220,8 @@
   },
   "active": "338cbff67ad5fcd8",
   "lastOpenFiles": [
-    "00_共同開発テンプレ/05_定例会議/週報フォルダ/楓.md",
     "00_共同開発テンプレ/05_定例会議/週報フォルダ/週報Test.md",
+    "00_共同開発テンプレ/05_定例会議/週報フォルダ/楓.md",
     "00_共同開発テンプレ/06_発想広場/ホワイトボード/01_ホワイトボード_総合.canvas",
     "00_共同開発テンプレ/06_発想広場/ホワイトボード/Player‗イメージボード.canvas",
     "00_共同開発テンプレ/06_発想広場/ホワイトボード/楓‗イメージボード.canvas",
