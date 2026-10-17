@@ -1,5 +1,6 @@
 {
 	"nodes":[
+<<<<<<< HEAD
 		{"id":"71b6e63e438fcd14","type":"group","x":40,"y":320,"width":2100,"height":640,"label":"プロジェクト概要"},
 		{"id":"3677bb9fc5fa6488","type":"text","text":"ここはホワイトボードです。\n視覚的に議論しましょう。","x":34,"y":47,"width":250,"height":60},
 		{"id":"db59e121628c8b5f","type":"text","text":"そのうちブラウザ上のホワイトボードツールと連動","x":340,"y":47,"width":340,"height":60},
@@ -42,6 +43,17 @@
 		{"id":"a73f911052c4e491","fromNode":"f749ef6243ce2b0c","fromSide":"right","toNode":"49126cf0bac6f01a","toSide":"left"},
 		{"id":"9ac153cf29ddde14","fromNode":"ef3153bc12d2ee94","fromSide":"right","toNode":"995a3d470128f3da","toSide":"left"},
 		{"id":"e3085d24e4d472e4","fromNode":"d6ee18fbeeb37817","fromSide":"right","toNode":"3682e010f10eeea3","toSide":"left"}
+=======
+		{"id":"71b6e63e438fcd14","type":"group","x":0,"y":280,"width":860,"height":580,"label":"プロジェクト概要"},
+		{"id":"3677bb9fc5fa6488","type":"text","text":"ここはホワイトボードです。\n視覚的に議論しましょう。","x":34,"y":47,"width":250,"height":60},
+		{"id":"db59e121628c8b5f","type":"text","text":"そのうちブラウザ上のホワイトボードツールと連動","x":340,"y":47,"width":340,"height":60},
+		{"id":"176d5c8bbd558d39","type":"text","text":"ここに各々のアイデアを総合する","x":32,"y":160,"width":252,"height":60},
+		{"id":"fd2412ed972b4784","type":"text","text":"運営方針","x":32,"y":320,"width":252,"height":60},
+		{"id":"ef3153bc12d2ee94","type":"text","text":"開発フロー","x":32,"y":420,"width":252,"height":60},
+		{"id":"dd9bdbaeb5e4d05d","type":"text","text":"使用ツール","x":34,"y":520,"width":252,"height":60},
+		{"id":"a8d17db7c7342994","type":"text","text":"プロジェクトの目的","x":34,"y":640,"width":252,"height":60},
+		{"id":"266347cdbf51c231","x":384,"y":645,"width":252,"height":50,"type":"text","text":"資金でさらにでかいゲームを作る"}
+>>>>>>> origin/main
 	],
 	"metadata":{
 		"version":"1.0-1.0",
