@@ -23,7 +23,7 @@
 		{"id":"d0d27f67d74b9f8a","type":"text","text":"仕様書\n詳細作成","x":1000,"y":540,"width":128,"height":60},
 		{"id":"7daa98999e0cd8ce","type":"text","text":"プロト版\n実装","x":1200,"y":540,"width":128,"height":60},
 		{"id":"5d0f8c38e2a7288c","type":"text","text":"アルファ版\n実装","x":1380,"y":540,"width":128,"height":60},
-		{"id":"3682e010f10eeea3","type":"text","text":"バリアフリーなゲームの実現","x":548,"y":753,"width":230,"height":60}
+		{"id":"3682e010f10eeea3","type":"text","text":"Player:\nバリアフリーなゲームの実現","x":548,"y":753,"width":230,"height":60}
 	],
 	"edges":[
 		{"id":"b11a94dccd62ec5a","fromNode":"fd2412ed972b4784","fromSide":"right","toNode":"f17353c5c43ebaa7","toSide":"left"},
