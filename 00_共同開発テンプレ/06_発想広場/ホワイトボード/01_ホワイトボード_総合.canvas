@@ -1,5 +1,6 @@
 {
 	"nodes":[
+<<<<<<< HEAD
 		{"id":"71b6e63e438fcd14","type":"group","x":0,"y":280,"width":860,"height":580,"label":"プロジェクト概要"},
 		{"id":"3677bb9fc5fa6488","type":"text","text":"ここはホワイトボードです。\n視覚的に議論しましょう。","x":34,"y":47,"width":250,"height":60},
 		{"id":"db59e121628c8b5f","type":"text","text":"そのうちブラウザ上のホワイトボードツールと連動","x":340,"y":47,"width":340,"height":60},
@@ -9,6 +10,50 @@
 		{"id":"dd9bdbaeb5e4d05d","type":"text","text":"使用ツール","x":34,"y":520,"width":252,"height":60},
 		{"id":"a8d17db7c7342994","type":"text","text":"プロジェクトの目的","x":34,"y":640,"width":252,"height":60},
 		{"id":"266347cdbf51c231","x":340,"y":170,"width":252,"height":50,"type":"text","text":"資金でさらにでかいゲームを作る"}
+=======
+		{"id":"71b6e63e438fcd14","type":"group","x":40,"y":320,"width":2100,"height":580,"label":"プロジェクト概要"},
+		{"id":"3677bb9fc5fa6488","type":"text","text":"ここはホワイトボードです。\n視覚的に議論しましょう。","x":34,"y":47,"width":250,"height":60},
+		{"id":"db59e121628c8b5f","type":"text","text":"そのうちブラウザ上のホワイトボードツールと連動","x":340,"y":47,"width":340,"height":60},
+		{"id":"176d5c8bbd558d39","type":"text","text":"ここに各々のアイデアを総合する","x":32,"y":160,"width":252,"height":60},
+		{"id":"fd2412ed972b4784","type":"text","text":"運営方針","x":72,"y":360,"width":128,"height":60},
+		{"id":"ef3153bc12d2ee94","type":"text","text":"開発フロー","x":72,"y":540,"width":128,"height":60},
+		{"id":"c7c5b2fd4c475243","type":"text","text":"企画書初稿","x":406,"y":540,"width":128,"height":60},
+		{"id":"86fe4b4c4a7cef66","type":"text","text":"ベータ版\n実装","x":1560,"y":540,"width":128,"height":60},
+		{"id":"f749ef6243ce2b0c","type":"text","text":"マスター版\n実装","x":1760,"y":540,"width":128,"height":60},
+		{"id":"49126cf0bac6f01a","type":"text","text":"リリース","x":1940,"y":540,"width":128,"height":60},
+		{"id":"f17353c5c43ebaa7","type":"text","text":"エンジニアさん含め、3人規模","x":240,"y":360,"width":230,"height":60},
+		{"id":"dd9bdbaeb5e4d05d","type":"text","text":"使用ツール","x":74,"y":647,"width":126,"height":60},
+		{"id":"a8d17db7c7342994","type":"text","text":"プロジェクトの目的","x":74,"y":753,"width":126,"height":60},
+		{"id":"d6ee18fbeeb37817","type":"text","text":"月50万の儲けを稼げるチーム","x":240,"y":753,"width":230,"height":60},
+		{"id":"3619fe7e046c6f8c","type":"text","text":"2週間に1回","x":240,"y":460,"width":128,"height":60},
+		{"id":"beee8443534d7372","type":"text","text":"金曜夜10時","x":420,"y":460,"width":128,"height":60},
+		{"id":"ca3426aa49f0e810","type":"text","text":"専用ディスコで定例会議","x":616,"y":460,"width":144,"height":60},
+		{"id":"f75814db7514b442","type":"text","text":"少人数型の開発","x":530,"y":360,"width":230,"height":60},
+		{"id":"995a3d470128f3da","type":"text","text":"アイデア出し","x":240,"y":540,"width":128,"height":60},
+		{"id":"1785b96c636f95f8","type":"text","text":"仕様書\n概要作成","x":680,"y":540,"width":128,"height":60},
+		{"id":"d0d27f67d74b9f8a","type":"text","text":"仕様書\n詳細作成","x":1000,"y":540,"width":128,"height":60},
+		{"id":"7daa98999e0cd8ce","type":"text","text":"プロト版\n実装","x":1200,"y":540,"width":128,"height":60},
+		{"id":"5d0f8c38e2a7288c","type":"text","text":"アルファ版\n実装","x":1380,"y":540,"width":128,"height":60},
+		{"id":"3682e010f10eeea3","type":"text","text":"Player:\nバリアフリーなゲームの実現","x":548,"y":753,"width":230,"height":60}
+	],
+	"edges":[
+		{"id":"b11a94dccd62ec5a","fromNode":"fd2412ed972b4784","fromSide":"right","toNode":"f17353c5c43ebaa7","toSide":"left"},
+		{"id":"cca676a92376d90e","fromNode":"a8d17db7c7342994","fromSide":"right","toNode":"d6ee18fbeeb37817","toSide":"left"},
+		{"id":"2e8e3452fb7fbc4b","fromNode":"fd2412ed972b4784","fromSide":"right","toNode":"3619fe7e046c6f8c","toSide":"left"},
+		{"id":"f3460e1d4bed6a61","fromNode":"3619fe7e046c6f8c","fromSide":"right","toNode":"beee8443534d7372","toSide":"left"},
+		{"id":"ba7bf90aab564b5c","fromNode":"beee8443534d7372","fromSide":"right","toNode":"ca3426aa49f0e810","toSide":"left"},
+		{"id":"e811803eb2d7ae71","fromNode":"f17353c5c43ebaa7","fromSide":"right","toNode":"f75814db7514b442","toSide":"left"},
+		{"id":"4656c2bd07670d19","fromNode":"c7c5b2fd4c475243","fromSide":"right","toNode":"1785b96c636f95f8","toSide":"left","label":"GOサイン"},
+		{"id":"f0fbbd03ab56e391","fromNode":"995a3d470128f3da","fromSide":"right","toNode":"c7c5b2fd4c475243","toSide":"left"},
+		{"id":"1db3c74db9f0ab2a","fromNode":"1785b96c636f95f8","fromSide":"right","toNode":"d0d27f67d74b9f8a","toSide":"left","label":"GOサイン"},
+		{"id":"1f6bf7b0f6fcafe7","fromNode":"d0d27f67d74b9f8a","fromSide":"right","toNode":"7daa98999e0cd8ce","toSide":"left"},
+		{"id":"95369d97c291f9ef","fromNode":"7daa98999e0cd8ce","fromSide":"right","toNode":"5d0f8c38e2a7288c","toSide":"left"},
+		{"id":"d569f70ba91f928e","fromNode":"5d0f8c38e2a7288c","fromSide":"right","toNode":"86fe4b4c4a7cef66","toSide":"left"},
+		{"id":"d0da1e16ba8c277f","fromNode":"86fe4b4c4a7cef66","fromSide":"right","toNode":"f749ef6243ce2b0c","toSide":"left"},
+		{"id":"a73f911052c4e491","fromNode":"f749ef6243ce2b0c","fromSide":"right","toNode":"49126cf0bac6f01a","toSide":"left"},
+		{"id":"9ac153cf29ddde14","fromNode":"ef3153bc12d2ee94","fromSide":"right","toNode":"995a3d470128f3da","toSide":"left"},
+		{"id":"e3085d24e4d472e4","fromNode":"d6ee18fbeeb37817","fromSide":"right","toNode":"3682e010f10eeea3","toSide":"left"}
+>>>>>>> origin/main
 	],
 	"edges":[],
 	"metadata":{
